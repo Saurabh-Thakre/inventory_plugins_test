@@ -7,4 +7,4 @@
   tasks:
     - name: DISPLAY THE HOST VARS
       debug:
-        msg: "The mgmt IP is {{ ansible_host }}      
+        msg: "The mgmt IP is {{ ansible_host }}"
